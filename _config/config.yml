@@ -1,0 +1,3 @@
+TractorCow\TestVendorModule\TestPage:
+  config_var: config.yml successfully loaded from vendor
+  config_class: success

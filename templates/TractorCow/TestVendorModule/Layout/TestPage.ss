@@ -4,6 +4,7 @@
 		<h1>$Title</h1>
         <div class="csstest"></div>
         <div class="jstest"></div>
+        <div class="configtest $ConfigClass">$ConfigMessage</div>
         <div class="imagetest">
             <p>Below you should see a nice picture:</p>
             <img src="$ImagePath" alt="kitten" />

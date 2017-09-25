@@ -1,10 +1,12 @@
 .csstest {
     background: #AAFFAA;
     color: black;
+}
+.csstest:after {
     content: "style.css successfully loaded from vendor";
     display: block;
 }
-.jstest.success {
+.success {
     background: #AAFFAA;
     color: black;
 }
